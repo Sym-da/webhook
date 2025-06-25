@@ -1,5 +1,5 @@
 import time, requests, pyfiglet, threading
-print(pyfiglet.figlet_format("KINGMAN"))
+print(pyfiglet.figlet_format("XEMON"))
 
 msg = input("Please Insert WebHook Spam Message: ")
 webhook = input("Please Insert WebHook URL: ")
